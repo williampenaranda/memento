@@ -6,7 +6,7 @@ import dominio.ArchivoMemento;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-
+//caretaker
 public class EditorArchivo {
     private final Archivo archivo;
     private final Deque<ArchivoMemento> historial = new ArrayDeque<>();
