@@ -1,0 +1,26 @@
+DEMOSTRACIÓN DEL PATRÓN MEMENTO
+==============================
+
+Este es el contenido real de un archivo de texto local.
+La vista previa es de solo lectura.
+
+Prueba la demostración:
+
+1. Cambia el título y el autor en el panel derecho.
+2. Pulsa «Aplicar cambios» para guardar el estado anterior.
+3. Realiza una segunda edición y vuelve a aplicar.
+4. Pulsa «Deshacer» para recuperar cada estado previo.
+
+También puedes elegir otro archivo local y aplicar su URI.
+Al deshacer, recuperarás la URI anterior y su vista previa.
+
+Los tres participantes:
+
+- Archivo: originador. Crea y restaura su propio estado.
+- ArchivoMemento: instantánea inmutable de los cuatro campos editables.
+- EditorArchivo: caretaker. Conserva y devuelve las instantáneas.
+
+Importante:
+La demo modifica metadatos en memoria, no este documento.
+El ID no cambia. El hash es un dato de ejemplo, no una comprobación
+calculada a partir del contenido de este archivo.
