@@ -1,0 +1,6 @@
+presentacion.adaptadores.grafica.VistaPreviaArchivo$EntradaLimitada
+presentacion.adaptadores.grafica.VistaPreviaArchivo
+presentacion.adaptadores.grafica.VistaPreviaArchivo$Resultado
+presentacion.adaptadores.grafica.VistaPreviaArchivo$1
+presentacion.adaptadores.grafica.VistaPreviaArchivo$ErrorVista
+presentacion.adaptadores.grafica.VistaPreviaArchivo$PanelImagen

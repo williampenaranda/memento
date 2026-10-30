@@ -1,0 +1,3 @@
+presentacion.adaptadores.grafica.VentanaArchivo
+presentacion.adaptadores.grafica.VentanaArchivo$1
+presentacion.adaptadores.grafica.VentanaArchivo$2
